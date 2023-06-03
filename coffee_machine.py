@@ -8,7 +8,7 @@ order = input('What would you like? (espresso/latte/cappuccino):')
 # TODO: Create Vairibles.
 
 # Coins
-quater = 0.25
+quarter = 0.25
 dime = 0.10
 nickle = 0.05
 penny = 0.01
